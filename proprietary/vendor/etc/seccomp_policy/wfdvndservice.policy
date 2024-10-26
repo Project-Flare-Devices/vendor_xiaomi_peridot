@@ -85,4 +85,4 @@ tgkill: 1
 epoll_create1: 1
 epoll_ctl: 1
 epoll_pwait: 1
-
+gettid: 1
